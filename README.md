@@ -15,5 +15,6 @@ Dependências necessárias:
     "styled": "^1.0.0",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
+    
 
 Abra o projeto na IDE e logo após o terminal na IDE, instale as dependências necessárias para a execução do projeto. Após instalação, digite npm start no terminal e a app irá correr no servidor web no endereço: http://localhost:3000, caso não esteja utilizando essa porta, caso contrário outra será aberta.
